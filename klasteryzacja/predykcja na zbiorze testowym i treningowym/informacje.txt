@@ -1,0 +1,1 @@
+W tym folderze znajdują się kody z algorytmami klasteryzacji, które w jednej iteracji 5-krotnej walidacji krzyżowej, grupują zarówno dane trenignowe jak i dane testowe dla danego folda. Ze względu na długi czas wykonywania tych algorytmów oraz duże wymagania sprzętowe nie wszystkie (o ile jakiekolwiek) udało się uruchomić
