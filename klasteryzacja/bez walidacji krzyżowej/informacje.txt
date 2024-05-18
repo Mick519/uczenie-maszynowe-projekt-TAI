@@ -1,0 +1,1 @@
+Ze względu na dużą zasobożerność algorytmów oraz brak możliwości ustalenia z góry liczby klastrów, zzdecydowaliśmy się dla tych algorytmów nie stosować walidacji krzyżowej
